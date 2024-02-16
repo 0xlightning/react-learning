@@ -13,3 +13,6 @@
 ## 05passwordGenerator
  - Can generate password automatically and copy to clipboard by click. 
  - used useState, useEffect, useRef, useCallback
+## 06currencyconverter
+ - can find the currency conversions using this app
+ - connected api, custom hooks in this project, useId, useState, useEffect
