@@ -16,3 +16,9 @@
 ## 06currencyconverter
  - can find the currency conversions using this app
  - connected api, custom hooks in this project, useId, useState, useEffect
+## 07reactrouter
+ - used routers to add multiple pages and 404page.
+## 08shoppingcart
+ - used react.js and redux
+ - can purchase in inr and usd
+ - used useEffect, useState, Reducers, Routers, useSelector, useDispatch
