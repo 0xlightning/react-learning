@@ -18,6 +18,7 @@
  - connected api, custom hooks in this project, useId, useState, useEffect
 ## 07reactrouter
  - used routers to add multiple pages and 404page.
+ - used useLoaderData, useParams, Link, Navlink, Route, RouterProvider, createBrowserRouter, createRoutesFromElements
 ## 08shoppingcart
  - used react.js and redux
  - can purchase in inr and usd
