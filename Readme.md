@@ -23,3 +23,8 @@
  - used react.js and redux
  - can purchase in inr and usd
  - used useEffect, useState, Reducers, Routers, useSelector, useDispatch
+## 09miniContext (vite)
+ - used createContext, Context Api and useState to manage the username passed to all the pages useContext
+## 11todoContextLocal
+ - creating many custom hooks from useContext.
+ - use useContext, useState and props.
